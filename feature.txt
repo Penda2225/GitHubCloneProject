@@ -1,2 +1,4 @@
 This is a new feature.
 creating merge conflict
+Trying the merge conflict
+
